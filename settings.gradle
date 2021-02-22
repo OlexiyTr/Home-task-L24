@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Home-task-L24-Archit"
+rootProject.name = "Home-Task-MVVM-LiveData"

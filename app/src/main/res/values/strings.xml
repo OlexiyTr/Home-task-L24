@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">Home-task-L24-Archit</string>
-    <string name="post_loading_error">Loading error</string>
-    <string name="with_warnings">З попередженням</string>
+    <string name="app_name">Home-Task-MVVM-LiveData</string>
     <string name="banned_text">Тут міг бути пост юзера %d, але він забанений</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+    <string name="confirm">confirm</string>
+    <string name="warning">З попередженням</string>
 </resources>
